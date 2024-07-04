@@ -4,7 +4,7 @@ Welcome to the Spotify Clone, a project developed using HTML, CSS, and JavaScrip
 
 ## Demo
 
-Explore the Spotify Clone live [here](https://gh-rishii78.github.io/Spotify-Clone/).
+Explore the Spotify Clone live [here](https://rishisrivastava07.github.io/Spotify-Clone/).
 
 ## Features
 
